@@ -1,0 +1,6 @@
+{
+  "name": "peertube-runner",
+  "version": "1.0.0",
+  "description": "PeerTube remote runner on Cloud Run",
+  "private": true
+}
